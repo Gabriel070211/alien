@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+h2 {
+    color: blue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h3 {
+    color: blue;
+    font-weight: bold;
+}
+
+h4 {
+    color: blue;
+    font-weight: bold;
+}
+
+.copy_right_footer {
+    color: white;
+    font-weight: bold;
+    margin-top: 60px;
+    font-size: 14px;
+    margin-left: 60px;
+}
+
+p {
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
